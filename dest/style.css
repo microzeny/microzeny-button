@@ -1,0 +1,23 @@
+.microzeny-button {
+    height: 20px;
+    line-height: 20px;
+    padding: 0 5px 0 28px;
+    font-size: 12px;
+    font-weight: initial;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: #313d4f;
+    background: url(/dest/logo.svg) no-repeat 5px center, #fff;
+    background-size: contain;
+    text-decoration: none;
+}
+
+
+.microzeny-button:hover {
+    background-color: #f0f0f0;
+    text-decoration: none;
+    color: #313d4f;
+    font-size: 12px;
+    font-weight: initial;
+}
