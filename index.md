@@ -35,7 +35,7 @@ TBD
 
 下記は僕のmicrozeny-buttonです。どういう動作するのかぜひ実際にお確かめください。
 
-<a class="microzeny-button" data-microzeny-id="satetsu888" data-number="39" data-unit="μZNY" data-description="microzeny-buttonのサンプルです">BitZenyを送る</a><script src="https://microzeny.github.io/dest/widgets.js"></script> via <a href="https://microzeny.com" target="_blank">microzeny</a>
+<a class="microzeny-button" data-microzeny-id="satetsu888" data-number="39" data-unit="μZNY" data-description="microzeny-buttonのサンプルです">BitZenyを送る</a><script src="https://microzeny.github.io/microzeny-button/dest/widgets.js"></script> via <a href="https://microzeny.com" target="_blank">microzeny</a>
 
 
 
