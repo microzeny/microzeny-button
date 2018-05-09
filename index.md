@@ -33,10 +33,11 @@ microzenyボタンでは
 
 1. サイトなどに設置されているmicrozenyボタンを押します(1秒)
 2. こんなページにきたら[新規登録/ログインして送る]を押して、Twitter連携でログインします(5秒)
-  - <p style="text-align: center;"><img src="./static/images/confirm_nologin.png" border="1" style="width: 40%;"/></p>
+  - <p style="text-align: center;"><img src="./static/images/confirm_nologin.png" border="1" style="width: 60%;"/></p>
 3. 登録時はもちろん残高をもっていないのでfaucetでいくらか無料でもらってきましょう(20-100秒)
+  - <p style="text-align: center; line-height: 100%;"><img src="./static/images/confirm_login.png" border="1" style="width: 60%;"/></p>
   - faucetではmicrozenyのID(TwitterIDと同じ)の入力とreCaptchaのチェックが必要です。
-  - <p style="text-align: center; line-height: 100%;"><img src="./static/images/confirm_login.png" border="1" style="width: 30%;"/> <img src="./static/images/faucet.png" border="1" style="width: 50%;"/></p>
+  - <p style="text-align: center; line-height: 100%;"><img src="./static/images/faucet.png" border="1" style="width: 90%;"/></p>
 4. 確認ページに戻ってきたら金額やメッセージを編集して先ほどもらったBitZenyを投げましょう(5秒)
 
 以上で完了です。
